@@ -1,0 +1,26 @@
+[
+  {
+    "title": "bees",
+    "director": "bad",
+    "releaseYear": "manly",
+    "genre": "man"
+  },
+  {
+    "title": "The Matrix",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "releaseYear": "1999",
+    "genre": "Action, Sci-Fi"
+  },
+  {
+    "title": "beeman",
+    "director": "the bee",
+    "releaseYear": "1999",
+    "genre": "bees"
+  },
+  {
+    "title": "Paul",
+    "director": "Greg Mottola",
+    "releaseYear": "2011",
+    "genre": "Adventure, Comedy, Sci-Fi"
+  }
+]
