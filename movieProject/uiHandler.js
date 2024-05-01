@@ -1,6 +1,6 @@
 function start(rl, fileHandler, MovieManager, APIHandler) {
     const movieManager = new MovieManager(fileHandler, 'movies.json');
-    const apiHandler = new APIHandler('c1aebe5');
+    const apiHandler = new APIHandler('APIKEY');
   
     movieManager.init().then(() => {
       console.log('Welcome to the Movie Catalog!');
